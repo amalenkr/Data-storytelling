@@ -1,0 +1,8 @@
+data ter.menage; set ter.menage;
+array ed (1) hv106;
+array var (24) hv106_1--hv106_24;
+niveau = 0;
+if hv106 ne "" then DO i=1 TO 24;
+	if hv106 > niveau then ed(i) = niveau;
+end;
+run;
