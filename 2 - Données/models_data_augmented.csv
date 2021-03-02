@@ -1,0 +1,124 @@
+,model,birth_place,l,tone,n_covers,birth_country,birth_country2
+0,Adele,"London, England",0.796199095,#E3C1B2,2,England,England
+1,Adwoa Aboah,"London, England",0.486862745,#BA673E,1,England,England
+2,Alicia Vikander,"Gothenburg, Sweden",0.75630375,#E8B398,2,Sweden,Sweden
+3,Amal Clooney,"Beirut, Lebanon",0.72373581,#DBAF95,1,Lebanon,Lebanon
+4,Amanda Seyfried,"Allentown, Pennsylvania, U.S.",0.66379085,#D59B7C,1,U.S.,U.S.
+5,Amber Valletta,"Phoenix, Arizona, U.S.",0.661522791,#C6A08A,3,U.S.,U.S.
+6,Amy Adams,"Vicenza, Italy",0.8573529409999999,#ECCDC9,1,Italy,Italy
+7,Andreea Diaconu,"Bucharest, Romania",0.649542484,#D49476,1,Romania,Romania
+8,Angela Lindvall,"Midwest City, Oklahoma, U.S.",0.6959336009999999,#D2A58F,2,U.S.,U.S.
+9,Anna Jagodzinska,"Sierpc, Poland[1]",0.658431373,#D5AA7A,1,Poland[1],Poland
+10,Anne Hathaway,"New York City, U.S.",0.7890931370000001,#EAC4A7,3,U.S.,U.S.
+11,Arizona Muse,"Tucson, Arizona, U.S.[1]",0.650544662,#D59376,1,U.S.[1],U.S.
+12,Ashley Judd,"Los Angeles, California, U.S.",0.518552036,#AD705B,1,U.S.,U.S.
+13,Beyonce,"Houston, Texas, U.S.",0.546182014,#B37D62,4,U.S.,U.S.
+14,Blake Lively,"Los Angeles, California, U.S.",0.607964519,#C49571,3,U.S.,U.S.
+15,Bridget Hall,"Springdale, Arkansas",0.726797386,#DEAC94,1,Arkansas,Arkansas
+16,Britney Spears,"McComb, Mississippi, U.S.",0.70802139,#DBAA8E,1,U.S.,U.S.
+17,Brooke Shields,"Manhattan, New York, U.S.",0.552249135,#B18A67,1,U.S.,U.S.
+18,Cameron Diaz,"San Diego, California, U.S.",0.560171569,#A88C74,2,U.S.,U.S.
+19,Cara Delevingne,"Hammersmith, London, England",0.7171895420000001,#E3A58A,2,England,England
+20,Carey Mulligan,"London, England",0.756781046,#E6BD9A,3,England,England
+21,Carmen Kass,"Tallinn, Estonia",0.6406238479999999,#CD9778,4,Estonia,Estonia
+22,Caroline Trentini,"Panambi, Rio Grande do Sul, Brazil",0.6096078429999999,#C29774,1,Brazil,Brazil
+23,Carolyn Murphy,"Panama City, Florida, U.S.",0.63315508,#CF9273,2,U.S.,U.S.
+24,Cate Blanchett,"Ivanhoe, Victoria, Australia",0.684691015,#C6A895,5,Australia,Australia
+25,Catherine Zeta-Jones,"Swansea, Glamorgan, Wales",0.709591503,#CFA999,2,Wales,Wales
+26,Charlize Theron,"Benoni, South Africa",0.684356765,#D8A884,6,South Africa,South Africa
+27,Christy Turlington,"Oakland, California, U.S.",0.584464555,#AE8D7A,2,U.S.,U.S.
+28,Claire Danes,"Manhattan, New York, U.S.",0.7928104579999999,#EFC5A4,1,U.S.,U.S.
+29,Claire Foy,"Stockport, Greater Manchester, England",0.8582267690000001,#EFD0C5,1,England,England
+30,Daisy Ridley,"London, England",0.692156863,#D1A38F,1,England,England
+31,Dakota Johnson,"Austin, Texas, U.S.",0.7542538129999999,#EAAA95,2,U.S.,U.S.
+32,Daria Werbowy,"Kraków, Poland",0.834858388,#ECD1BD,1,Poland,Poland
+33,Debra Messing,"New York City, U.S.",0.597385621,#C09070,1,U.S.,U.S.
+34,Demi Moore,"Roswell, New Mexico, U.S.",0.645490196,#C39E86,1,U.S.,U.S.
+35,Doutzen Kroes,"Gytsjerk, Friesland, Netherlands",0.63627451,#C79A7D,1,Netherlands,Netherlands
+36,Drew Barrymore,"Culver City, California, U.S.",0.696968695,#D4AD8D,3,U.S.,U.S.
+37,Edie Campbell,"Westminster, London, England",0.647303922,#D29277,1,England,England
+38,Elle Fanning,"Conyers, Georgia, U.S.",0.7135549870000001,#D2A999,1,U.S.,U.S.
+39,Emily Blunt,"London, England",0.68177624,#D99C82,1,England,England
+40,Emma Stone,"Scottsdale, Arizona, U.S.",0.773625529,#E6BAA4,3,U.S.,U.S.
+41,Emma Watson,"Paris, France",0.795588235,#E1C5B4,1,France,France
+42,Fei Fei Sun,"Weifang, Shandong, China",0.659912854,#D6967A,1,China,China
+43,Frankie Rayder,"River Falls, Wisconsin, United States",0.7107266440000001,#DCB08D,1,United States,U.S.
+44,Gigi Hadid,"Los Angeles, California, U.S.",0.570895887,#C97E59,3,U.S.,U.S.
+45,Gisele Bundchen,"Horizontina, Rio Grande do Sul, Brazil",0.670072372,#D29F82,9,Brazil,Brazil
+46,Gwen Stefani,"Fullerton, California, U.S.",0.651740196,#C99F82,2,U.S.,U.S.
+47,Gwyneth Paltrow,"Los Angeles, California, U.S.",0.687701681,#D5A888,5,U.S.,U.S.
+48,Halle Berry,"Cleveland, Ohio, U.S.",0.54246732,#B07E63,2,U.S.,U.S.
+49,Hilary Rhoda,"Chevy Chase, Maryland, United States",0.6309523810000001,#C3967E,1,United States,U.S.
+50,Imaan Hammam,"Amsterdam, Netherlands",0.464542484,#AE5E3E,2,Netherlands,Netherlands
+51,Jennifer Aniston,"Los Angeles, California, U.S.",0.589623397,#C08E6B,4,U.S.,U.S.
+52,Jennifer Connelly,"Cairo, New York, U.S.",0.7610294120000001,#E2BFA0,2,U.S.,U.S.
+53,Jennifer Hudson,"Chicago, Illinois, U.S.",0.493382353,#A67955,1,U.S.,U.S.
+54,Jennifer Lawrence,"Indian Hills, Kentucky, U.S.",0.69251068,#D5A58B,3,U.S.,U.S.
+55,Jennifer Lopez,"New York City, U.S.",0.656279178,#CAA083,2,U.S.,U.S.
+56,Jessica Biel,"Ely, Minnesota, U.S.[2]",0.68627451,#D1A48C,1,U.S.[2],U.S.
+57,Jessica Chastain,"Sacramento, California, U.S.",0.86127451,#F8D2BE,1,U.S.,U.S.
+58,Joan Smalls,"Hatillo, Puerto Rico[1]",0.527818627,#B77156,1,Puerto Rico[1],Puerto Rico
+59,Julianne Moore,"Fort Bragg, North Carolina, U.S.",0.7140406159999999,#D2A999,2,U.S.,U.S.
+60,Karlie Kloss,"Chicago, Illinois, U.S.",0.641437908,#D78E6F,2,U.S.,U.S.
+61,Karolina Kurkova,"Děčín, Ústí nad Labem, Czechoslovakia",0.647511312,#C79B83,1,Czechoslovakia,Czechoslovakia
+62,Kate Bosworth,"Los Angeles, California, U.S.[1]",0.515686275,#A67D61,1,U.S.[1],U.S.
+63,Kate Hudson,"Los Angeles, California, U.S.",0.666499406,#CCA586,5,U.S.,U.S.
+64,Kate Moss,"Croydon, Greater London, England",0.588562092,#B69275,2,England,England
+65,Kate Upton,"St. Joseph, Michigan, U.S.",0.688235294,#DDA681,1,U.S.,U.S.
+66,Kate Winslet,"Reading, Berkshire, England",0.720388287,#DDAE90,2,England,England
+67,Katy Perry,"Santa Barbara, California, U.S.",0.801942435,#EAC3AE,2,U.S.,U.S.
+68,Keira Knightley,"London, England",0.706224401,#D6AD91,5,England,England
+69,Kendall Jenner,"Los Angeles, California, U.S.",0.700057333,#DCA087,3,U.S.,U.S.
+70,Kim Kardashian,"Los Angeles, California, U.S.",0.7395424840000001,#E1B297,1,U.S.,U.S.
+71,Kirsten Dunst,"Point Pleasant, New Jersey, U.S.",0.684375973,#D6AE86,2,U.S.,U.S.
+72,Kristen Stewart,"Los Angeles, California, U.S.",0.7316526609999999,#D6B79E,1,U.S.,U.S.
+73,Lady Gaga,"New York City, U.S.",0.817217931,#DFCCC0,3,U.S.,U.S.
+74,Lena Dunham,"New York City, U.S.",0.77739331,#E0C1AC,1,U.S.,U.S.
+75,Lily Donaldson,"Hammersmith, London, England",0.593333333,#BD8F70,1,England,England
+76,Linda Evangelista,"St. Catharines, Ontario, Canada",0.649859944,#CA9A81,2,Canada,Canada
+77,Lisa-Marie Presley,"Memphis, Tennessee, U.S.",0.724420677,#D2B59F,1,U.S.,U.S.
+78,Liya Kebede,"Addis Ababa, Ethiopia",0.504396203,#AE7B52,2,Ethiopia,Ethiopia
+79,Lupita Nyongo,"Mexico City, Mexico",0.326855742,#6B413B,4,Mexico,Mexico
+80,Madonna,"Bay City, Michigan, U.S.",0.675980392,#CBA78D,1,U.S.,U.S.
+81,Maggie Rizer,"New York City, U.S.[1]",0.66,#D3A87D,1,U.S.[1],U.S.
+82,Margot Robbie,"Dalby, Queensland, Australia",0.635947712,#D29F72,1,Australia,Australia
+83,Marion Cotillard,"Paris, France",0.606078431,#BF9475,3,France,France
+84,Meryl Streep,"Summit, New Jersey, U.S.",0.7219607840000001,#DCB393,2,U.S.,U.S.
+85,Natalia Vodianova,"Gorky, Russian SFSR, Soviet Union",0.732127295,#E0B694,4,Soviet Union,Soviet Union
+86,Natalie Portman,Jerusalem,0.691140784,#D2A88D,4,Jerusalem,Jerusalem
+87,Nicole Kidman,"Honolulu, Hawaii, U.S.",0.702280809,#CEAF96,7,U.S.,U.S.
+88,Penelope Cruz,"Alcobendas, Madrid, Spain",0.617090487,#C89371,5,Spain,Spain
+89,Priscilla Presley,"Brooklyn, New York, U.S.",0.772096531,#D4C0B5,1,U.S.,U.S.
+90,Rachel McAdams,"London, Ontario, Canada",0.754901961,#D6BAAA,1,Canada,Canada
+91,Rachel Weisz,"London, England",0.6736694679999999,#C8A38F,1,England,England
+92,Reese Witherspoon,"New Orleans, Louisiana, U.S.",0.6313812639999999,#C3977E,5,U.S.,U.S.
+93,Renee Zellweger,"Katy, Texas, U.S.",0.686428624,#CBA991,4,U.S.,U.S.
+94,Rihanna,"Saint Michael, Barbados",0.617069259,#C78E72,5,Barbados,Barbados
+95,Riley Keough,"  St. Johns Hospital and Health Center, Santa Monica, California, U.S.",0.7573295990000001,#D5BBAC,1,U.S.,U.S.
+96,Rooney Mara,"Bedford, New York, U.S.",0.737874183,#D5B2A2,3,U.S.,U.S.
+97,Ruth Negga,"Addis Ababa, Ethiopia",0.553594771,#B88162,1,Ethiopia,Ethiopia
+98,Salma Hayek,"Coatzacoalcos, Veracruz, Mexico",0.58583878,#BB8A6F,1,Mexico,Mexico
+99,Sandra Bullock,"Arlington, Virginia, U.S.",0.624362745,#C69477,4,U.S.,U.S.
+100,Saoirse Ronan,"New York City, U.S.",0.634238311,#CAA378,1,U.S.,U.S.
+101,Sarah Jessica Parker,"Nelsonville, Ohio, U.S.",0.620602718,#C39A78,6,U.S.,U.S.
+102,Sasha Pivovarova,"Moscow, Soviet Union",0.639433551,#C99C7C,1,Soviet Union,Soviet Union
+103,Scarlett Johansson,"New York City, U.S.",0.657796452,#C19E8D,2,U.S.,U.S.
+104,Selena Gomez,"Grand Prairie, Texas, U.S.",0.623227753,#CE966F,1,U.S.,U.S.
+105,Sienna Miller,"New York City, U.S.",0.683453159,#D4A687,4,U.S.,U.S.
+106,Taylor Swift,"West Reading, Pennsylvania, U.S.",0.720754228,#DDAA91,3,U.S.,U.S.
+107,Tina Fey,"Upper Darby Township, Pennsylvania, U.S.",0.609150327,#D09466,1,U.S.,U.S.
+108,Uma Thurman,"Boston, Massachusetts, U.S.",0.65321267,#CEA57E,2,U.S.,U.S.
+109,Vanessa Axente,"Nagylengyel, Hungary",0.674379085,#DB997C,1,Hungary,Hungary
+110,Vittoria Ceretti,"Brescia, Italy",0.621746881,#DB8861,1,Italy,Italy
+111,Winona Ryder,"Winona, Minnesota, U.S.",0.727591036,#CEAFA4,1,U.S.,U.S.
+112,Zendaya,"Oakland, California, U.S.",0.598039216,#C6876A,1,U.S.,U.S.
+113,Amy Schumer,,0.756951872,#E4BD9D,1,nan,U.S.
+114,Angelina Jolie,,0.6689346420000001,#CB9E89,5,nan,U.S.
+115,Ashley Graham,,0.5546568629999999,#D0724A,1,nan,U.S.
+116,Hope Solo,,0.659869281,#CDA182,1,nan,U.S.
+117,Liu Wen,,0.560980392,#C87955,1,nan,China
+118,Marion Jones,,0.558371041,#C77955,1,nan,U.S.
+119,Melania Trump,,0.74956427,#DBBCA2,1,nan,Slovenia
+120,Michelle Obama,,0.44551742899999996,#A16241,3,nan,U.S.
+121,Michelle Williams,,0.788601405,#DDCBB4,2,nan,U.S.
+122,Serena Williams,,0.416404062,#925841,3,nan,U.S.
