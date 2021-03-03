@@ -109,8 +109,8 @@ a.link {
 		font-weight: normal;
 		font-style:normal;
 		color: black; 
-		transition: all 1s;
-		height: 3em;
+		/**transition: all 1s;**/
+		/**height: 3em;**/
 	}
 
 	#menu td:hover {
@@ -274,7 +274,7 @@ a.link {
 }
 
 .corps {
-	font-family: 'Helvetica Light', sans-serif;	
+	font-family: 'Helvetica Light';
 	color: black; 
 	text-align: justify; 
 	font-size: 0.8em;
