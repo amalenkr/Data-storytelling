@@ -129,7 +129,7 @@ a.link {
 		/**text-transform: uppercase; **/
 		text-align: center;
 		color: white; 
-		background-color: #FFD5C9;
+		background-color: #1F51FF;
 		#divth {		
 			width: 100%;
 		}
@@ -281,7 +281,8 @@ fieldset {
 	margin: 0;
 	background: white; 
 	border-radius: .5em; 
-	font-family: 'Times, sans-serif;	
+	font-family: 'Helvetica';
+	font-size: 0.7em;
 	color: black; 
 	text-align: justify;
 }
