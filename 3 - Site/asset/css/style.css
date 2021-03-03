@@ -4,16 +4,29 @@ font-family: 'Abril Fatface', cursive;
 font-family: 'Parisienne', cursive;
 */
 
+@font-face {
+    font-family: 'GT Walsheim Pro';
+    src: url('GTWalsheimPro-Regular.eot');
+    src: local('GT Walsheim Pro Regular'), local('GTWalsheimPro-Regular'),
+        url('GTWalsheimPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GTWalsheimPro-Regular.woff2') format('woff2'),
+        url('GTWalsheimPro-Regular.woff') format('woff'),
+        url('GTWalsheimPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 ::-webkit-scrollbar {	width: 0; background: transparent;}
 
 hr {	width: 85%;}
 
 .accueilbody {	
-	background-color: rgba(171, 162, 199, .3);
+	background-color: rgba(256, 256, 256, .3);
 }
 
 .articlebody {	
-	background-color: rgba(171, 162, 199, .3);
+	background-color: rgba(256, 256, 256, .3);
 	margin: auto; 
 	margin-top: 4%;  
 	overflow: hidden
@@ -42,17 +55,18 @@ a.link {
 	#menu td {	  
 		text-align: center; 
 		text-decoration: none;
-		font-size: 1.5em; 
-		text-transform: uppercase; 
-		font-family: 'Open Sans Condensed', sans-serif; 
-		color: white; 
+		font-size: 0.8em; 
+		/**text-transform: uppercase; **/
+		font-family: 'Helvetica'; 
+		color: black; 
 		transition: all 1s;
 		height: 3em;
 	}
 
 	#menu td:hover {
-		font-size: 3em;
 		height: 1em;
+		cursor: pointer;
+		color: #0000FF;
 		width: auto;
 		transition: all 1s;
 	}
@@ -110,12 +124,13 @@ a.link {
 }
 
 	#articles th, #divth, th {
-		font-size: 20px; 
-		background: #e2e0e2;
-		text-transform: uppercase; 
+		font-size: 15px; 
+		font-family:'Didot';
+		/**text-transform: uppercase; **/
 		text-align: center;
 		color: white; 
-		#divth {
+		background-color: #FFD5C9;
+		#divth {		
 			width: 100%;
 		}
 		
@@ -187,9 +202,8 @@ a.link {
 /*************************************************************************/
 
 .titre {
-	text-transform: uppercase; 
-	font-size: 5em; 
-	font-family: 'Abril Fatface', cursive; 
+	font-size: 4em; 
+	font-family: 'Didot'; /**, cursive; **/
 	margin: 1em 0 0 0;
 	width: fit-content;
 	padding: 0 .4em;
@@ -197,28 +211,24 @@ a.link {
 
 .pagetitre {	
 	text-align: center; 
-	font-size: 2em;
+	font-size: 1.5em;
 }
 
 .corps {
-	font-family: 'Open Sans Condensed', sans-serif;	
+	font-family: 'Helvetica Light', sans-serif;	
 	color: black; 
 	text-align: justify; 
 	font-size: 1em;
 	padding: 0 2em;
 }
 
-.texte::first-letter {
-	font: 'Arial'; 
-	-webkit-initial-letter: 2; 
-	color: #498;
-}
+
 
 .foot {
-	color: white; 
+	color: black; 
 	font-style: italic; 
 	text-align: center; 
-	font-family: 'Parisienne', cursive; 
+	font-family: 'Times', cursive; 
 	padding: 0; 
 	margin: auto;
 }
@@ -266,12 +276,12 @@ fieldset {
 /*************************************************************************/
 	
 .box {
-	width: 75%; 
+	width: 70%; 
 	height: auto;
 	margin: 0;
 	background: white; 
 	border-radius: .5em; 
-	font-family: 'Open Sans Condensed', sans-serif;	
+	font-family: 'Times, sans-serif;	
 	color: black; 
 	text-align: justify;
 }
@@ -285,39 +295,38 @@ fieldset {
 .artfond {
 	margin: auto;
 	width: 75%; 
-	height: 75%;
-	background: white fixed;
+	height: 90%;
+	background: white;
 	border-radius: .5em;
 	overflow: auto;
 	font-family: 'Open Sans Condensed', sans-serif;	
 }
 
 .artititre {
-	color: white;
-	text-transform: uppercase; 
-	font-size: 4em; 
-	font-family: 'Abril Fatface', cursive;
+	color: black;
+	font-size: 3em; 
+	font-family: 'Didot', sans-serif;
 	line-height: 1;
-	margin-left: 20%; margin-bottom: 3%;
+	margin-left: 15%; margin-bottom: 3%;
 }
 
 #backbutton {
-	font-size: 1.4em;
-	color: white;
+	font-size: 0.9em;
+	color: black;
 	position: fixed;
 	top: 0; 
 	left: 0;
 	padding: 1em;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #backbutton a {	
-	color: white
+	color: black
 }
 
 .artimeta {
 	color: gray;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	padding: 2em;
 	text-align: right;
 	display: block;
@@ -417,11 +426,11 @@ fieldset {
 /*************************************************************************/
 
 .hue {
-	background-image: -webkit-linear-gradient(120deg, #da8c7b, #55bdba);
+	background-color: '#FFFFFF'; /**-webkit-linear-gradient(120deg, #da8c7b, #55bdba);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	-webkit-animation: hue 5s infinite linear;
-	-moz-animation: hue 5s infinite linear;
+	-moz-animation: hue 5s infinite linear;**/
 }
 
 .hue2 {
