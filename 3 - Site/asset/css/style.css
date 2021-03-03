@@ -8,6 +8,7 @@ En tête
 -------------------- */
 
 @import 'asset/css/font-awesome.min.css';
+@import 'font_stylesheet.css';
 
 .top_header_area {
     width: 100%;
@@ -62,17 +63,6 @@ En tête
 }
 
 
-@font-face {
-    font-family: 'GT Walsheim Pro';
-    src: url('GTWalsheimPro-Regular.eot');
-    src: local('GT Walsheim Pro Regular'), local('GTWalsheimPro-Regular'),
-        url('GTWalsheimPro-Regular.eot?#iefix') format('embedded-opentype'),
-        url('GTWalsheimPro-Regular.woff2') format('woff2'),
-        url('GTWalsheimPro-Regular.woff') format('woff'),
-        url('GTWalsheimPro-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
 
 ::-webkit-scrollbar {	width: 0; background: transparent;}
@@ -115,22 +105,31 @@ a.link {
 		text-decoration: none;
 		font-size: 0.8em; 
 		/**text-transform: uppercase; **/
-		font-family: 'Helvetica'; 
+		font-family: 'GT Walsheim Pro' ; 
+		font-weight: normal;
+		font-style:normal;
 		color: black; 
 		transition: all 1s;
 		height: 3em;
 	}
 
 	#menu td:hover {
-		height: 1em;
+		background-image: -webkit-linear-gradient(120deg, #18ddaa, #20529d);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		-webkit-animation: hue 1s infinite linear;
+		-moz-animation: hue 1s infinite linear;
+		/**height: 1em;**/
 		cursor: pointer;
-		color: #0000FF;
-		width: auto;
-		transition: all 1s;
+		/** color: #0000FF; **/
+		/**width: auto;**/
+		/**transition: all 1s;**/
 	}
 
 #nouveautes {	
 	margin: auto; 
+	font-family: 'GT Walsheim Pro' ; 
+	font-weight: 300;
 	border-spacing: 1em 0; 
 	width: 100%;
 }
@@ -139,7 +138,7 @@ a.link {
 		padding: 1em;
 		background-size: cover;
 		background-repeat: no-repeat;
-		width: 25%;
+		width: 50%;
 	}
 
 	#nouveautes td p {
@@ -155,7 +154,7 @@ a.link {
 }
 
 	.buttontop td {
-		width: 25%; 
+		width: 20%; 
 		padding: 5px; 
 		text-align: center; 
 		font-size: 18px; 
@@ -165,13 +164,14 @@ a.link {
 	}
 
 	#buttonpage1 td:hover {
-		background: rgba(255, 223, 251, 1.0); 
-		transition: all 0.5s;
+		background: rgba(0, 51, 255 , 1.0); 
+		transition: all 0.1s;
 	}
 
 	#buttonpage2 td:hover {
 		background: #f5e1c0; 
 		transition: all 1s
+		width:50%;
 	}
 
 #articles {
@@ -186,8 +186,9 @@ a.link {
 		font-family:'Didot';
 		/**text-transform: uppercase; **/
 		text-align: center;
-		color: white; 
-		background-color: #1F51FF;
+		color: black; 
+		/**background-color: #1F51FF;**/
+		border-bottom: 1px solid #ebebeb;
 		#divth {		
 			width: 100%;
 		}
@@ -276,7 +277,7 @@ a.link {
 	font-family: 'Helvetica Light', sans-serif;	
 	color: black; 
 	text-align: justify; 
-	font-size: 1em;
+	font-size: 0.8em;
 	padding: 0 2em;
 }
 
@@ -339,8 +340,8 @@ fieldset {
 	margin: 0;
 	background: white; 
 	border-radius: .5em; 
-	font-family: 'Helvetica';
-	font-size: 0.7em;
+	font-family: 'Helvetica Light';
+	font-size: 0.1em;
 	color: black; 
 	text-align: justify;
 }
@@ -358,7 +359,7 @@ fieldset {
 	background: white;
 	border-radius: .5em;
 	overflow: auto;
-	font-family: 'Open Sans Condensed', sans-serif;	
+	font-family: 'GT Welsheim Pro', sans-serif;	
 }
 
 .artititre {
@@ -428,18 +429,18 @@ fieldset {
 		background: white; 
 		padding: 0 .5em;
 		text-transform: uppercase; 
-		font-family: 'Abril Fatface', cursive;
+		font-family: 'GT Walsheim Pro', cursive;
 	}
 
 	#tousarticlesbar td{
 		font-size: 1.7em;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'GT Walsheim Pro', sans-serif;
 		width: 33%;
 	}
 
 	#tousarticlestable td {
 		width: 25%;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'GT Walsheim Pro';
 		font-size: 1em;
 		padding: 1em;
 		background-size: contain;
@@ -455,7 +456,7 @@ fieldset {
 		background: rgba(256, 256, 256, .8);
 		color: black;
 		font-size: 1.7em;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'GT Walsheim Pro';
 		width: 25%;
 		padding: 1.4em;
 		transition: all 1s;
@@ -474,6 +475,7 @@ fieldset {
 		}
 
 .meftitre1 {
+	font-family: 'GT Walsheim Pro';
 	font-weight: bold; 
 	text-transform: uppercase
 }
@@ -493,12 +495,15 @@ fieldset {
 }
 
 .hue2 {
-	background-image: -webkit-linear-gradient(123deg, #18ddaa, #20529d);
+	background-image: -webkit-linear-gradient(120deg, #18ddaa, #20529d);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	-webkit-animation: hue 1s infinite linear;
 	-moz-animation: hue 1s infinite linear;
 }
+
+
+
 
 .anchor {	
 	position: absolute; top: -70px;
