@@ -73,6 +73,9 @@
     font-style: normal;
 }
 
+
+
+
 @font-face {
     font-family: 'GT Walsheim Pro';
     src: url('GTWalsheimPro-BoldOblique.eot');
@@ -427,4 +430,14 @@
         url('CaslonLightSSK.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
+}
+
+
+@font-face {font-family: "GT Pressura Mono Light Light";
+  src: url("198bf5583f9f075a77b457c54a24b02b.eot"); /* IE9*/
+  src: url("198bf5583f9f075a77b457c54a24b02b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("198bf5583f9f075a77b457c54a24b02b.woff2") format("woff2"), /* chrome、firefox */
+  url("198bf5583f9f075a77b457c54a24b02b.woff") format("woff"), /* chrome、firefox */
+  url("198bf5583f9f075a77b457c54a24b02b.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("198bf5583f9f075a77b457c54a24b02b.svg#GT Pressura Mono Light Light") format("svg"); /* iOS 4.1- */
 }

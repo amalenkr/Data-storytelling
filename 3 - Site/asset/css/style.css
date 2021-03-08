@@ -35,7 +35,7 @@ En tête
 }
 
 .top_header_area .reseaux > a:hover {
-    color: #fc6c3f;
+	color: #0000FF
 }
 
 .top_header_area .reseaux > a:last-of-type {
@@ -72,6 +72,7 @@ hr {	width: 85%;}
 
 .accueilbody {	
 	background-color: rgba(256, 256, 256, .3);
+	
 }
 
 .articlebody {	
@@ -130,7 +131,7 @@ a.link {
 
 #nouveautes {	
 	margin: auto; 
-	font-family: 'GT Walsheim Pro' ; 
+	font-family: 'GT Walsheim Pro' ;
 	font-weight: 300;
 	border-spacing: 1em 0; 
 	width: 100%;
@@ -190,7 +191,7 @@ a.link {
 		text-align: center;
 		color: black; 
 		/**background-color: #1F51FF;**/
-		border-bottom: 1px solid #ebebeb;
+		border-bottom: 0.3px solid #414141;
 		margin-bottom: 15px;
 		margin-top: 20px;
 		#divth {		
@@ -271,6 +272,7 @@ a.link {
 	margin: 1em 0 0 0;
 	width: fit-content;
 	padding: 0 .4em;
+	
 }
 
 .pagetitre {	
@@ -279,14 +281,21 @@ a.link {
 }
 
 .corps {
-	font-family: 'GT Walsheim Pro Ultra';
-	font-weight: 200;
+	font-family: 'GT Walsheim Pro';
+	font-weight: 100;
 	color: black; 
 	text-align: justify; 
 	font-size: 0.9em;
 	padding: 0 2em;
 }
 
+.footer2 {
+	font-family: 'GT Pressura Mono Light Light';
+	color: black; 
+	text-align: justify; 
+	font-size: 0.7em;
+	padding: 0 2em;
+}
 
 
 .foot {
@@ -377,13 +386,13 @@ fieldset {
 }
 
 #backbutton {
-	font-family: 'GT Walsheim Pro Ultra';
+	font-family: 'GT Walsheim Pro';
 	font-size: 0.9em;
 	color: black;
-	position: fixed;
 	top: 0; 
 	left: 0;
 	padding: 1em;
+	position: fixed;
 }
 
 #backbutton a {	
@@ -486,7 +495,7 @@ fieldset {
 		font-style:normal;
 		font-size:0.9em;
 		text-transform: uppercase;
-		letter-spacing: 1.8px; 
+		letter-spacing: 1px; 
 		color: black; 
 }
 
@@ -504,6 +513,7 @@ fieldset {
 	-moz-animation: hue 5s infinite linear;**/
 }
 
+/**
 .hue:hover {
 	background-image: -webkit-linear-gradient(120deg, #18ddaa, #20529d);
 	-webkit-background-clip: text;
@@ -511,7 +521,7 @@ fieldset {
 	-webkit-animation: hue 5s infinite linear;
 	-moz-animation: hue 5s infinite linear;
 }
-
+**/
 
 
 .hue2 {
