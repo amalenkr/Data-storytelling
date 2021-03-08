@@ -1,25 +1,25 @@
-birth_country2,model
-Australia,2
-Barbados,1
-Brazil,2
-Canada,2
-China,2
-Czech Republic,1
-Estonia,1
-Ethiopia,2
-France,2
-Hungary,1
-Israel,1
-Italy,2
-Lebanon,1
-Mexico,2
-Netherlands,2
-Poland,2
-Romania,1
-Russian Federation,2
-Slovenia,1
-South Africa,1
-Spain,1
-Sweden,1
-United Kingdom,14
-United States of America,76
+birth_country2;model;percentage
+Australia;2;0,016260163
+Barbados;1;0,008130081
+Brazil;2;0,016260163
+Canada;2;0,016260163
+China;2;0,016260163
+Czech Republic;1;0,008130081
+Estonia;1;0,008130081
+Ethiopia;2;0,016260163
+France;2;0,016260163
+Hungary;1;0,008130081
+Israel;1;0,008130081
+Italy;2;0,016260163
+Lebanon;1;0,008130081
+Mexico;2;0,016260163
+Netherlands;2;0,016260163
+Poland;2;0,016260163
+Romania;1;0,008130081
+Russian Federation;2;0,016260163
+Slovenia;1;0,008130081
+South Africa;1;0,008130081
+Spain;1;0,008130081
+Sweden;1;0,008130081
+United Kingdom;14;0,113821138
+United States of America;76;0,617886179

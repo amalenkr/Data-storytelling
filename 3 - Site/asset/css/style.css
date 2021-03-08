@@ -8,7 +8,8 @@ En tête
 -------------------- */
 
 @import 'asset/css/font-awesome.min.css';
-@import 'font_stylesheet.css';
+@import 'Font_1/font_stylesheet.css';
+@import url(//db.onlinewebfonts.com/c/966f3ed4332d5651f58424eb7c31d09f?family=Chap+Regular);
 
 .top_header_area {
     width: 100%;
@@ -103,11 +104,12 @@ a.link {
 	#menu td {	  
 		text-align: center; 
 		text-decoration: none;
-		font-size: 0.8em; 
+		font-size: 0.7em; 
 		/**text-transform: uppercase; **/
 		font-family: 'GT Walsheim Pro' ; 
-		font-weight: normal;
+		font-weight: bold;
 		font-style:normal;
+		letter-spacing: 1.8px; 
 		color: black; 
 		/**transition: all 1s;**/
 		/**height: 3em;**/
@@ -183,15 +185,18 @@ a.link {
 
 	#articles th, #divth, th {
 		font-size: 15px; 
-		font-family:'Didot';
+		font-family:'Canela-Light';
 		/**text-transform: uppercase; **/
 		text-align: center;
 		color: black; 
 		/**background-color: #1F51FF;**/
 		border-bottom: 1px solid #ebebeb;
+		margin-bottom: 15px;
+		margin-top: 20px;
 		#divth {		
 			width: 100%;
 		}
+
 		
 	}
 
@@ -261,8 +266,8 @@ a.link {
 /*************************************************************************/
 
 .titre {
-	font-size: 4em; 
-	font-family: 'Didot'; /**, cursive; **/
+	font-size: 5em; 
+	font-family: 'Canela-Light'; /**, cursive; **/
 	margin: 1em 0 0 0;
 	width: fit-content;
 	padding: 0 .4em;
@@ -274,10 +279,11 @@ a.link {
 }
 
 .corps {
-	font-family: 'Helvetica Light';
+	font-family: 'GT Walsheim Pro Ultra';
+	font-weight: 200;
 	color: black; 
 	text-align: justify; 
-	font-size: 0.8em;
+	font-size: 0.9em;
 	padding: 0 2em;
 }
 
@@ -365,19 +371,19 @@ fieldset {
 .artititre {
 	color: black;
 	font-size: 3em; 
-	font-family: 'Didot', sans-serif;
+	font-family: 'Canela-Light';
 	line-height: 1;
-	margin-left: 15%; margin-bottom: 3%;
+	margin-left: 15%; margin-bottom: 0%;
 }
 
 #backbutton {
+	font-family: 'GT Walsheim Pro Ultra';
 	font-size: 0.9em;
 	color: black;
 	position: fixed;
 	top: 0; 
 	left: 0;
 	padding: 1em;
-	font-family: 'Open Sans', sans-serif;
 }
 
 #backbutton a {	
@@ -429,7 +435,7 @@ fieldset {
 		background: white; 
 		padding: 0 .5em;
 		text-transform: uppercase; 
-		font-family: 'GT Walsheim Pro', cursive;
+		font-family: 'GT Walsheim Pro';
 	}
 
 	#tousarticlesbar td{
@@ -475,9 +481,13 @@ fieldset {
 		}
 
 .meftitre1 {
-	font-family: 'GT Walsheim Pro';
-	font-weight: bold; 
-	text-transform: uppercase
+		font-family: 'GT Walsheim Pro' ; 
+		font-weight: bold;
+		font-style:normal;
+		font-size:0.9em;
+		text-transform: uppercase;
+		letter-spacing: 1.8px; 
+		color: black; 
 }
 
 /*************************************************************************/
