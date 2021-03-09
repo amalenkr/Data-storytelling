@@ -513,7 +513,7 @@ fieldset {
 	-moz-animation: hue 5s infinite linear;**/
 }
 
-/**
+
 .hue:hover {
 	background-image: -webkit-linear-gradient(120deg, #18ddaa, #20529d);
 	-webkit-background-clip: text;
@@ -521,7 +521,6 @@ fieldset {
 	-webkit-animation: hue 5s infinite linear;
 	-moz-animation: hue 5s infinite linear;
 }
-**/
 
 
 .hue2 {
