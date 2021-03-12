@@ -188,7 +188,7 @@ a.link {
 
 
 	#articles th, #divth, th {
-		font-size: 15px; 
+		font-size: 30px; 
 		font-family:'Canela-Light';
 		text-align: center;
 		color: black; 
@@ -372,7 +372,7 @@ fieldset {
 .artfond {
 	margin: auto;
 	width: 75%; 
-	height: 90%;
+	height: 100%;
 	background: white;
 	border-radius: .5em;
 	overflow: auto;
@@ -384,7 +384,8 @@ fieldset {
 	font-size: 3em; 
 	font-family: 'Canela-Light';
 	line-height: 1;
-	margin-left: 15%; margin-bottom: 0%;
+	margin-bottom: 3%; margin-top: 3%;margin-left:0;
+	text-align:center;
 }
 
 #backbutton {
