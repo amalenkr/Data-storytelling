@@ -1,25 +1,25 @@
-birth_country2;model;percentage
-Australia;2;1,6%
-Barbados;1;0,8%
-Brazil;2;1,6%
-Canada;2;1,6%
-China;2;1,6%
-Czech Republic;1;0,8%
-Estonia;1;0,8%
-Ethiopia;2;1,6%
-France;2;1,6%
-Hungary;1;0,8%
-Israel;1;0,8%
-Italy;2;1,6%
-Lebanon;1;0,8%
-Mexico;2;1,6%
-Netherlands;2;1,6%
-Poland;2;1,6%
-Romania;1;0,8%
-Russian Federation;2;1,6%
-Slovenia;1;0,8%
-South Africa;1;0,8%
-Spain;1;0,8%
-Sweden;1;0,8%
-United Kingdom;14;11,4%
-United States of America;76;61,8%
+birth_country2;model;percentage;model;tone;data_name;path_cover
+Australia;2;1,60%;Margot Robbie;#D29F72;20160601;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20160601.jpg
+Barbados;1;0,80%;Rihanna;#F3B18D;20121101;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20121101.jpg
+Brazil;2;1,60%;Gisele Bundchen;#EBCDB3;20040901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20040901.jpg
+Canada;2;1,60%;Rachel McAdams;#D6BAAA;20100101;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20100101.jpg
+China;2;1,60%;Liu Wen;#C87955;20170301;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20170301.jpg
+Czech Republic;1;0,80%;Karolina Kurkova;#C79B83;20010201;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20010201.jpg
+Estonia;1;0,80%;Carmen Kass;#CE9A86;20000101;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20000101.jpg
+Ethiopia;2;1,60%;Ruth Negga;#B88162;20170101;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20170101.jpg
+France;2;1,60%;Marion Cotillard;#CDAC91;20120801;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20120801.jpg
+Hungary;1;0,80%;Vanessa Axente;#DB997C;20140901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20140901.jpg
+Israel;1;0,80%;Natalie Portman;#D6B39B;20060301;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20060301.jpg
+Italy;2;1,60%;Vittoria Ceretti;#DB8861;20170301;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20170301.jpg
+Lebanon;1;0,80%;Amal Clooney;#DBAF95;20180501;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20180501.jpg
+Mexico;2;1,60%;Salma Hayek;#BB8A6F;20050601;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20050601.jpg
+Netherlands;2;1,60%;Imaan Hammam;#B1694F;20140901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20140901.jpg
+Poland;2;1,60%;Daria Werbowy;#ECD1BD;20040901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20040901.jpg
+Romania;1;0,80%;Andreea Diaconu;#D49476;20140901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20140901.jpg
+Russian Federation;2;1,60%;Natalia Vodianova;#F0D6C4;20040901;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20040901.jpg
+Slovenia;1;0,80%;Melania Trump;#DBBCA2;20050201;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20050201.jpg
+South Africa;1;0,80%;Charlize Theron;#DDBEA5;20111201;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20111201.jpg
+Spain;1;0,80%;Penelope Cruz;#E3AF90;20160201;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20160201.jpg
+Sweden;1;0,80%;Alicia Vikander;#EABB9A;20180301;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20180301.jpg
+United Kingdom;14;11,40%;Rachel Weisz;#C8A38F;20081001;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20081001.jpg
+United States of America;76;61,80%;Zendaya;#C6876A;20170701;https://raw.githubusercontent.com/amalenkr/Data-storytelling/main/2%20-%20Donn%C3%A9es/covers/20170701.jpg
