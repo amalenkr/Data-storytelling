@@ -1,0 +1,141 @@
+<html>
+	<head>
+		
+		<title>FD - Fashion Discrimination</title>
+		<link rel="shortcut icon" href="../asset/favicon.ico" />
+		<link rel="apple-touch-icon" href="../asset/favicon.ico" />
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+		<link rel="stylesheet" href="../asset/css/style.css"/>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans+Condensed:300|Parisienne" rel="stylesheet">
+
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+		<script src="chart.js"></script>
+
+		
+		
+	</head>
+
+	<body class = "articlebody">
+	
+		
+	<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+      <img width=30px align="left" src="../logo.png">
+    <a  class="w3-bar-item2 w3-button hue">  <b>Fashion</b> Discrimination</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+	  <a href = "../index.html" class="scroll w3-bar-item2 w3-button hue">BACK</a>
+    </div>
+    
+  </div>
+</div>
+<p id = "top" class = "anchor"></p>
+
+
+	
+<table id = "backbutton">
+	<tr>
+		
+		<td></td>
+	</tr>
+
+</table>
+
+
+	
+<div class = "artfond animated fadeinup">
+<div class = "artititre">Models' Birth Country <br></div>
+	<p class="quote">	 “Vogue has not found enough ways to elevate and give space to black editors, writers, photographers, designers and other creators” – Anna Wintour
+</p>
+	<p class = "corps">
+		<table>
+		<tr>
+		Where are those models you see on Vogue US cover born ? 61.8% of the models are born in the U.S.A.
+		</tr><br>
+		<br>
+			<tr>
+			
+<iframe title="" aria-label="Map" id="datawrapper-chart-e77PJ" src="https://datawrapper.dwcdn.net/e77PJ/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+			</tr>
+		</table>
+		</p>
+	
+
+	<p  class = "corps">
+		<tr>
+Vogue Bad Press
+Vogue has a long relationship with scandals and diversity issues as stated in the famous catchphrase “More issues than vogue”. The New York Times published in 2020 an article entitled “The White Issue” following the magazine’s September issue celebrating Black culture and the employee’s uprising saying the editor fostered a workplace that sidelined women of color. 
+
+</tr>
+
+	</p>
+
+	<div style="display:flex">
+	
+		<div style="flex-basis: 500px; " class="corps">
+Need 2 Replace this text .... Explain figures  
+Going Further
+Cover of magazines, collection campaigns, photoshoots etc. are only appearances. Even though the change of mentality is showing more and more in the industry, the concrete changes are still cosmetic. As stated in a Business of Fashion study, when looking at the chief executives and C-suites of the biggest fashion companies, white males are in a majority.
+“Diversity is being invited to the party; inclusion is being asked to dance.” – Verna Myers
+Lupita was talking about a facet of racism called colorism. It’s the idea that, for people of color, lighter skin is more desirable. In the same way that white women will have an easier time than women of color, light-skinned women of color will have an easier time than dark-skinned women of color. So even though racial and ethnic diversity in fashion and the media is improving, dark-skinned women still aren’t getting the representation they deserve.
+</div>
+		<div class="chart-container" style="position: flex; width:50%">
+
+    		<canvas id="myChart" ></canvas>
+		</div>
+
+
+	</div>
+
+<div id="footer">
+<br>
+<br>
+</div>
+
+	
+</div>
+
+	</body>
+
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src = "../asset/script/script.js"></script>
+		
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script>
+
+<script>
+var ctx = document.getElementById('myChart');
+var myPieChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+        labels: ['Non-White', 'White'],
+        datasets: [{
+            label: '% of designers during FW',
+            data: [40, 60],
+            backgroundColor: [
+                'rgba(231, 82, 52)',
+                'rgba(245, 227, 212)'
+            ]
+        }]
+    },
+    options: {
+       legend: {
+            display: true,
+    }, 
+     title: {
+            display: true,
+            text: 'Proportion of non-white designers hosting catwalk show for S/S 2020'
+        }
+    }
+});
+
+
+        
+</script>
+	
+	
+</html>
