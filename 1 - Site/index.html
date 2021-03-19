@@ -174,13 +174,12 @@ It used to be dominated by the European standards which only reflected their pos
 		
 							<p class = "corps texte" style = "text-justify: none;">
 We downloaded the covers from The Vogue Archive website. We used the data from January 2000 to December 2018.
+
 Then, we processed the covers with Python scripts following those steps:
-<ul>
-  <li>Identification of model faces by facial detection using the OpenCV library : we identified the region of the face and we cropped the images down to size. 
-</li>
-  <li>Identification of the skin tone and the lightness value : we fitted several k-means clustering models to. The clustering models varied in terms of which features were used (rgb and hsl color values) as well as how many clusters were formed (2 or 3). The script filtered out just the pixels that were determined by the computer model to contain skin, and calculated and stored the median rgb color, as well as the corresponding lightness value. The results of all of the valid clustering models were averaged together.
-</li>
-</ul>								
+
+- Identification of model faces by facial detection using the OpenCV library : we identified the region of the face and we cropped the images down to size.
+ 
+- Identification of the skin tone and the lightness value : we fitted several k-means clustering models to. The clustering models varied in terms of which features were used (rgb and hsl color values) as well as how many clusters were formed (2 or 3). The script filtered out just the pixels that were determined by the computer model to contain skin, and calculated and stored the median rgb color, as well as the corresponding lightness value. The results of all of the valid clustering models were averaged together.								
 								
 								<br><br>						
 							</p>
