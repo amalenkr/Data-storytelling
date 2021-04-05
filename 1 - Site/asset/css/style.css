@@ -233,14 +233,17 @@ a.link {
 }
 
 
-.foot {
-	color: black; 
-	font-style: italic; 
-	text-align: center; 
-	font-family: 'Times', cursive; 
-	padding: 0; 
-	margin: auto;
+
+.footnotes{
+	font-family: 'GT Pressura Mono Light Light';
+	color: black;
+	text-align: left; 
+	font-size: 0.5em;
+	border-top: 0.3px solid #DCDCDC;
+	margin-top: 10px;
+	padding: 5px;
 }
+
 
 
 /*************************************************************************/
